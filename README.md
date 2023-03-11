@@ -8,7 +8,7 @@ This is To-Do App build using ReactJs as Frontend and Django as Backend.
 
 
 # Backend
-  Django 
+  * Django 
 
 
 # Database 
